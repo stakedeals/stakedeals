@@ -1,0 +1,6 @@
+{
+  "name": "StakeDeals",
+  "description": "StakeDeals full-stack marketplace, patron and partner platform.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
